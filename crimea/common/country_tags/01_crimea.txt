@@ -1,2 +1,3 @@
 
 CRI = "countries/Crimea.txt"
+WAS = "countries/Wasteland.txt"

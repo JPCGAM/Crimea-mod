@@ -5,5 +5,5 @@ tags={
 	"Map"
 	"National Focuses"
 }
-name="Cimea"
+name="Crimea"
 supported_version="1.9.*"
