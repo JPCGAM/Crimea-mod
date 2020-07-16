@@ -1,3 +1,9 @@
 
 CRI = "countries/Crimea.txt"
 WAS = "countries/Wasteland.txt"
+BAL = "countries/Baltic Empire.txt"
+BLK = "countries/United Balkan.txt"
+WES = "countries/Wessex.txt"
+WFR = "countries/West Francia.txt"
+TRA = "countries/Transnistia.txt"
+CYP = "countries/Cyprus.txt"
